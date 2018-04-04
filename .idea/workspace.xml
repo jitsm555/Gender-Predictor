@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e02d273-bb95-4eaf-9637-be5de512c780" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/GenderClassifier.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/GenderLoader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/Sample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1880.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1881.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1882.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1883.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1884.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1885.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1886.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1887.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1888.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1889.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1890.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1891.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1892.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1893.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1894.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1895.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1896.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1897.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1898.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1899.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1900.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1901.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1902.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1903.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1904.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1905.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1906.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1907.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1908.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1909.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1910.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1911.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1912.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1913.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1914.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1915.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1916.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1917.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1918.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1919.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1920.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1921.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1922.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1923.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1924.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1925.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1926.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1927.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1928.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1929.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1930.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1931.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1932.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1933.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1934.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1935.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1936.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1937.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1938.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1939.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1940.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1941.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1942.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1943.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1944.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1945.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1946.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1947.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1948.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1949.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1950.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1951.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1952.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1953.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1954.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1955.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1956.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1957.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1958.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1959.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1960.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1961.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1962.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1963.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1964.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1965.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1966.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1967.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1968.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1969.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1970.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1971.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1972.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1973.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1974.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1975.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1976.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1977.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1978.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1979.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1980.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1981.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1982.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1983.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1984.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1985.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1986.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1987.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1988.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1989.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1990.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1991.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1992.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1993.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1994.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1995.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1996.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1997.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1998.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob1999.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2000.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2001.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2002.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2003.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2004.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2005.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2006.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2007.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2008.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2009.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gender_predictor/names/yob2010.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="yob1880.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1880.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenderLoader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gender_predictor/GenderLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="47" column="48" lean-forward="false" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gender-Precdictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gender-Precdictor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gender-Precdictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gender-Precdictor" type="462c0819:PsiDirectoryNode" />
+              <item name="gender_predictor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.GenderLoader">
+    <configuration name="GenderLoader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gender_predictor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Gender-Precdictor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gender_predictor/GenderLoader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gender_predictor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Gender-Precdictor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gender_predictor/Sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Sample" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GenderLoader" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.GenderLoader" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e02d273-bb95-4eaf-9637-be5de512c780" name="Default" comment="" />
+      <created>1522812055698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522812055698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="722" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gender_predictor/GenderLoader.py</url>
+          <line>47</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1880.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/GenderLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="47" column="48" lean-forward="false" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
