@@ -4,8 +4,16 @@ name = 'jitesh'
 gender = 1
 count = 50
 
-dictionary[name] = [0,0]
 print(dictionary)
 
-dictionary[name][gender] = dictionary[name][gender] + 20
+if name not in dictionary:
+    dictionary[name] = [0, 0]
+
+dictionary[name][gender] = dictionary[name][gender] + count
+
+name = 'jitesh'
+gender = 0
+count = 20
+dictionary[name][gender] = dictionary[name][gender] + count
+
 print(dictionary)

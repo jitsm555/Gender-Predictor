@@ -34,7 +34,7 @@ Elsie,F,1706
 Irene,F,1703
 Dorothy,F,1687
 Catherine,F,1628
-Agnes,F,1610
+Agnes,F,1611
 Sarah,F,1587
 Eva,F,1582
 Louise,F,1536
@@ -51,7 +51,7 @@ Viola,F,1156
 Alma,F,1146
 Ruby,F,1103
 Hattie,F,1087
-Jessie,F,1082
+Jessie,F,1081
 Blanche,F,1063
 Beatrice,F,1061
 Jennie,F,1061
@@ -242,8 +242,8 @@ Cleo,F,132
 Neva,F,131
 Regina,F,131
 Antoinette,F,130
+Geraldine,F,130
 Audrey,F,129
-Geraldine,F,129
 Letha,F,129
 Johanna,F,128
 Mathilda,F,127
@@ -1842,7 +1842,7 @@ Zilla,F,5
 Zollie,F,5
 John,M,6990
 William,M,6086
-James,M,4598
+James,M,4597
 George,M,4018
 Charles,M,3147
 Joseph,M,2679
@@ -1865,7 +1865,7 @@ Raymond,M,869
 Earl,M,821
 Joe,M,780
 Carl,M,774
-Louis,M,771
+Louis,M,770
 Ernest,M,744
 Richard,M,744
 Ralph,M,742
@@ -1899,7 +1899,7 @@ Russell,M,338
 Benjamin,M,335
 Clyde,M,330
 Edwin,M,329
-Leonard,M,322
+Leonard,M,321
 Ray,M,315
 Clifford,M,297
 Claude,M,293
@@ -1926,7 +1926,7 @@ Norman,M,223
 Philip,M,223
 Bernard,M,222
 Patrick,M,221
-Kenneth,M,215
+Kenneth,M,214
 Hugh,M,209
 Milton,M,207
 Guy,M,200
@@ -2025,8 +2025,8 @@ Steve,M,78
 Moses,M,77
 Jake,M,76
 Adam,M,74
-Douglas,M,74
 Pete,M,74
+Douglas,M,73
 Irvin,M,73
 Mckinley,M,72
 Nathaniel,M,72
@@ -2296,7 +2296,6 @@ Sol,M,18
 Sterling,M,18
 Steven,M,18
 Stuart,M,18
-Alan,M,17
 Angus,M,17
 Avery,M,17
 Berry,M,17
@@ -2321,6 +2320,7 @@ Sydney,M,17
 Thornton,M,17
 Thurman,M,17
 Tomas,M,17
+Alan,M,16
 Arther,M,16
 Bryant,M,16
 Buster,M,16
@@ -2689,7 +2689,6 @@ Seymour,M,8
 Spurgeon,M,8
 Stephan,M,8
 Stonewall,M,8
-Terry,M,8
 Unknown,M,8
 Virgle,M,8
 Webb,M,8
@@ -2763,6 +2762,7 @@ Oris,M,7
 Orvil,M,7
 Ossie,M,7
 Robt,M,7
+Terry,M,7
 Toney,M,7
 Vaughn,M,7
 Vic,M,7

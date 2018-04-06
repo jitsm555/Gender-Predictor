@@ -20,7 +20,7 @@ Grace,F,982
 Carrie,F,949
 Maude,F,858
 Mabel,F,808
-Bessie,F,794
+Bessie,F,796
 Jennie,F,793
 Gertrude,F,787
 Julia,F,783
@@ -41,7 +41,7 @@ Myrtle,F,615
 Eva,F,614
 Frances,F,605
 Lena,F,603
-Lucy,F,591
+Lucy,F,590
 Edna,F,588
 Maggie,F,582
 Pearl,F,569
@@ -59,7 +59,7 @@ Mamie,F,436
 Blanche,F,427
 Stella,F,414
 Ellen,F,411
-Nancy,F,411
+Nancy,F,410
 Effie,F,406
 Sallie,F,404
 Nettie,F,403
@@ -288,7 +288,6 @@ William,F,30
 Artie,F,29
 Blanch,F,29
 Charity,F,29
-Janet,F,29
 Lorena,F,29
 Lucretia,F,29
 Orpha,F,29
@@ -297,6 +296,7 @@ Annette,F,28
 Catharine,F,28
 Elma,F,28
 Geneva,F,28
+Janet,F,28
 Lee,F,28
 Leora,F,28
 Lona,F,28
@@ -941,7 +941,7 @@ Verona,F,5
 Vertie,F,5
 Wilma,F,5
 John,M,9655
-William,M,9533
+William,M,9532
 James,M,5927
 Charles,M,5348
 George,M,5126
@@ -949,7 +949,7 @@ Frank,M,3242
 Joseph,M,2632
 Thomas,M,2534
 Henry,M,2444
-Robert,M,2416
+Robert,M,2415
 Edward,M,2364
 Harry,M,2152
 Walter,M,1755

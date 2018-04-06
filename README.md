@@ -1,2 +1,2 @@
 # Gender-Precdictor
-This is gender predictor python lib which predict the gender name based on the given input
+Gender identifier is a classifier which detect names gender by analyzing sample text.

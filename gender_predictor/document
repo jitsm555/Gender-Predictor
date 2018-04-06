@@ -1,0 +1,22 @@
+Gender identifier is a classifier which detect names gender by analyzing sample text.
+
+
+
+
+Note: There may be chance where our system not able to detect gender, There is always possibility our data is having
+some noise.
+
+
+
+References:
+https://github.com/clintval/gender-predictor
+https://github.com/sholiday/genderPredictor
+http://blog.ayoungprogrammer.com/2016/04/determining-gender-of-name-with-80.html/
+http://genderchecker.com/default.aspx
+
+
+
+
+
+For puython reference:
+http://www.pythonforbeginners.com/os/pythons-os-module

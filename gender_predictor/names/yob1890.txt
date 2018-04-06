@@ -3,7 +3,7 @@ Anna,F,5233
 Elizabeth,F,3112
 Margaret,F,3100
 Emma,F,2980
-Florence,F,2745
+Florence,F,2744
 Ethel,F,2718
 Minnie,F,2650
 Clara,F,2496
@@ -19,7 +19,7 @@ Edna,F,1973
 Lillian,F,1862
 Nellie,F,1821
 Sarah,F,1786
-Martha,F,1785
+Martha,F,1784
 Ella,F,1758
 Pearl,F,1741
 Rose,F,1725
@@ -122,7 +122,7 @@ Ann,F,328
 Estella,F,320
 Anne,F,319
 Rachel,F,318
-Evelyn,F,315
+Evelyn,F,316
 Nina,F,314
 Belle,F,304
 Hilda,F,304
@@ -341,10 +341,10 @@ Pansy,F,57
 Polly,F,57
 Rosalie,F,57
 Angie,F,56
+John,F,56
 Lyda,F,56
 Ona,F,56
 Edythe,F,55
-John,F,55
 Linda,F,54
 Rita,F,54
 Catharine,F,53
@@ -704,7 +704,6 @@ Etna,F,15
 Garnet,F,15
 Gena,F,15
 Juliet,F,15
-Karen,F,15
 Kizzie,F,15
 Lular,F,15
 Mintie,F,15
@@ -745,6 +744,7 @@ Icie,F,14
 Izora,F,14
 Juana,F,14
 Juliette,F,14
+Karen,F,14
 Margarita,F,14
 Maybell,F,14
 Mercedes,F,14
@@ -1539,14 +1539,14 @@ George,M,4458
 Charles,M,4061
 Frank,M,3078
 Joseph,M,2670
-Robert,M,2542
+Robert,M,2541
 Henry,M,2349
 Harry,M,2345
 Edward,M,2282
 Thomas,M,2200
 Walter,M,1905
 Arthur,M,1610
-Fred,M,1507
+Fred,M,1506
 Albert,M,1417
 Clarence,M,1018
 Roy,M,941
@@ -1607,7 +1607,7 @@ Guy,M,249
 Jessie,M,241
 Leroy,M,236
 Patrick,M,227
-Lester,M,225
+Lester,M,226
 Homer,M,223
 Stanley,M,223
 Archie,M,221

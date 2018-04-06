@@ -446,13 +446,13 @@ Viva,F,40
 Clyde,F,39
 Connie,F,39
 Eulalia,F,39
-Savannah,F,39
 Vinnie,F,39
 Almeda,F,38
 Dixie,F,38
 Elda,F,38
 Hilma,F,38
 Lauretta,F,38
+Savannah,F,38
 Tena,F,38
 Camille,F,37
 Ester,F,37
@@ -1701,7 +1701,7 @@ Walburga,F,5
 Willetta,F,5
 Zura,F,5
 John,M,8238
-William,M,7275
+William,M,7274
 James,M,5110
 George,M,4365
 Charles,M,3788
@@ -1729,7 +1729,7 @@ Samuel,M,776
 Raymond,M,767
 Joe,M,741
 David,M,729
-Charlie,M,705
+Charlie,M,704
 Ralph,M,692
 Harold,M,690
 Howard,M,612
@@ -1748,8 +1748,8 @@ Lee,M,455
 Floyd,M,445
 Jack,M,441
 Herman,M,433
-Lawrence,M,431
-Francis,M,424
+Lawrence,M,430
+Francis,M,423
 Michael,M,423
 Eugene,M,421
 Claude,M,419
@@ -1894,9 +1894,9 @@ Perry,M,78
 Nathaniel,M,77
 Nicholas,M,77
 Alva,M,76
-Gerald,M,76
 Gus,M,76
 Nelson,M,76
+Gerald,M,75
 Noah,M,74
 Abraham,M,73
 Bill,M,73
@@ -2034,7 +2034,6 @@ Wilbert,M,30
 Burton,M,29
 Garland,M,29
 Johnny,M,29
-Lemuel,M,29
 Noble,M,29
 Alton,M,28
 Chauncey,M,28
@@ -2045,6 +2044,7 @@ Dorsey,M,28
 Freddie,M,28
 Jeremiah,M,28
 Junius,M,28
+Lemuel,M,28
 Lynn,M,28
 Pat,M,28
 Wilford,M,28

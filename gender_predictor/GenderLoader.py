@@ -33,21 +33,19 @@ def extract_name_dict():
     file_list = os.listdir(os.getcwd() + "/names")
     names = dict()
     gender_map = {'M': 0, 'F': 1}
-    # for filename in file_list:
-    #     print(filename)
-    print(file_list[0])
-    file = open(os.getcwd() + "/names/" + file_list[0], 'r')
-    print("Final File :" + file.name)
-    rows = csv.reader(file, delimiter=',')
-    for row in rows:
-        name = row[0].upper()
-        gender = gender_map[row[1]]
-        count = int(row[2])
-        if name not in names:
-            names[name] = [0, 0]
-        names[name][gender] = names[name][gender] + count
+    for filename in file_list:
+        file = open(os.getcwd() + "/names/" + filename, 'r')
+        print("Final File :" + file.name)
+        rows = csv.reader(file, delimiter=',')
+        for row in rows:
+            name = row[0].upper()
+            gender = gender_map[row[1]]
+            count = int(row[2])
+            if name not in names:
+                names[name] = [0, 0]
+            names[name][gender] = names[name][gender] + count
 
-    file.close()
+        file.close()
     print(names)
     # print('\tImported %s' % file.name)
     return names

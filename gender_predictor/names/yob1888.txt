@@ -7,7 +7,7 @@ Minnie,F,2654
 Bertha,F,2450
 Florence,F,2444
 Ethel,F,2374
-Bessie,F,2279
+Bessie,F,2278
 Clara,F,2230
 Ida,F,2229
 Alice,F,2202
@@ -27,7 +27,7 @@ Pearl,F,1591
 Rose,F,1590
 Gertrude,F,1468
 Edith,F,1453
-Frances,F,1453
+Frances,F,1452
 Cora,F,1433
 Maude,F,1396
 Louise,F,1334
@@ -49,7 +49,7 @@ Agnes,F,1046
 Josephine,F,1001
 Fannie,F,991
 Lucy,F,964
-Blanche,F,943
+Blanche,F,942
 Mamie,F,917
 Dora,F,898
 Hazel,F,898
@@ -91,7 +91,7 @@ Emily,F,457
 Addie,F,455
 Jane,F,446
 Kathryn,F,446
-Ruby,F,446
+Ruby,F,445
 Beulah,F,426
 Ollie,F,411
 Amanda,F,404
@@ -99,11 +99,11 @@ Pauline,F,393
 Harriet,F,389
 Virginia,F,385
 Theresa,F,377
-Mollie,F,374
+Mollie,F,375
 Dorothy,F,373
 Nannie,F,373
 Lulu,F,367
-Susan,F,364
+Susan,F,363
 Kate,F,360
 Amelia,F,358
 Henrietta,F,349
@@ -145,7 +145,7 @@ Allie,F,223
 Eula,F,223
 Hilda,F,219
 Alta,F,218
-Betty,F,215
+Betty,F,214
 Millie,F,213
 Rosie,F,211
 Mable,F,209
@@ -292,10 +292,10 @@ Emilie,F,65
 Gracie,F,65
 Oma,F,65
 Phoebe,F,65
-Fay,F,64
 Miriam,F,64
 Cleo,F,63
 Dovie,F,63
+Fay,F,63
 Isabella,F,63
 Letha,F,63
 Neva,F,63
@@ -658,7 +658,6 @@ Margaretta,F,16
 Maybell,F,16
 Mintie,F,16
 Sybil,F,16
-Thelma,F,16
 Winona,F,16
 Zada,F,16
 Alda,F,15
@@ -683,6 +682,7 @@ Nonie,F,15
 Norah,F,15
 Nova,F,15
 Tempie,F,15
+Thelma,F,15
 Tressa,F,15
 Valeria,F,15
 Vergie,F,15
@@ -1472,14 +1472,14 @@ Zelpha,F,5
 Zeta,F,5
 Zilphia,F,5
 Zonie,F,5
-John,M,9248
-William,M,8704
+John,M,9247
+William,M,8705
 James,M,5562
 George,M,4912
 Charles,M,4591
 Frank,M,3459
 Joseph,M,2993
-Robert,M,2815
+Robert,M,2814
 Harry,M,2759
 Henry,M,2596
 Edward,M,2470
@@ -1487,8 +1487,8 @@ Thomas,M,2449
 Walter,M,2040
 Arthur,M,1710
 Fred,M,1665
-Albert,M,1568
-Clarence,M,1023
+Albert,M,1569
+Clarence,M,1022
 Samuel,M,931
 Louis,M,884
 Roy,M,856
@@ -1535,7 +1535,7 @@ Clyde,M,344
 Lawrence,M,343
 Harvey,M,334
 Ray,M,331
-Jack,M,330
+Jack,M,329
 Edgar,M,321
 Otto,M,312
 Floyd,M,302
@@ -1553,7 +1553,7 @@ Jessie,M,254
 Hugh,M,253
 Theodore,M,249
 Patrick,M,245
-Alexander,M,238
+Alexander,M,237
 Leonard,M,225
 Ira,M,222
 Isaac,M,221
@@ -1607,7 +1607,7 @@ Max,M,118
 Otis,M,116
 Phillip,M,116
 Mark,M,115
-Matthew,M,115
+Matthew,M,114
 Virgil,M,112
 Wallace,M,111
 Alonzo,M,110
@@ -1624,8 +1624,8 @@ Felix,M,101
 Lonnie,M,101
 Manuel,M,101
 Emmett,M,100
-Jose,M,100
 Maurice,M,100
+Jose,M,99
 Elbert,M,98
 Owen,M,98
 Nicholas,M,97
@@ -2344,7 +2344,6 @@ Jarvis,M,7
 Jewell,M,7
 Julious,M,7
 Junior,M,7
-Keith,M,7
 Kirk,M,7
 Knox,M,7
 Lamar,M,7
@@ -2462,6 +2461,7 @@ Julia,M,6
 Julien,M,6
 Julio,M,6
 Kay,M,6
+Keith,M,6
 Kelley,M,6
 Kirby,M,6
 Lavern,M,6

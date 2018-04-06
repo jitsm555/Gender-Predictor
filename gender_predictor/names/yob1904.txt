@@ -1,5 +1,5 @@
-Mary,F,14962
-Helen,F,6489
+Mary,F,14961
+Helen,F,6488
 Anna,F,5330
 Margaret,F,5302
 Ruth,F,4900
@@ -18,8 +18,8 @@ Annie,F,2631
 Rose,F,2631
 Grace,F,2513
 Bertha,F,2363
-Bessie,F,2341
-Emma,F,2313
+Bessie,F,2340
+Emma,F,2312
 Hazel,F,2301
 Clara,F,2281
 Gertrude,F,2269
@@ -118,7 +118,7 @@ Eunice,F,502
 Lottie,F,497
 Sylvia,F,497
 Katie,F,494
-Mable,F,485
+Mable,F,486
 Jean,F,483
 Sallie,F,483
 Genevieve,F,481
@@ -240,9 +240,9 @@ Hester,F,169
 Dorothea,F,168
 Maudie,F,166
 Rita,F,166
-Sue,F,164
 Adele,F,163
 Claire,F,163
+Sue,F,163
 Angelina,F,161
 Mayme,F,161
 Elma,F,160
@@ -262,9 +262,9 @@ Marcella,F,146
 Hallie,F,144
 Lora,F,144
 Ila,F,143
+Lorena,F,140
 Nola,F,140
 Lee,F,139
-Lorena,F,139
 Cornelia,F,138
 Dolores,F,138
 Lenora,F,138
@@ -275,7 +275,7 @@ Lilly,F,133
 Lorene,F,133
 Cecil,F,130
 Dovie,F,129
-Janet,F,129
+Janet,F,128
 Reba,F,128
 Constance,F,127
 Corinne,F,127
@@ -1352,7 +1352,6 @@ Rafaela,F,9
 Refugio,F,9
 Roena,F,9
 Roselle,F,9
-Sandra,F,9
 Stephania,F,9
 Thalia,F,9
 Tishie,F,9
@@ -1460,6 +1459,7 @@ Rella,F,8
 Richard,F,8
 Rosena,F,8
 Samantha,F,8
+Sandra,F,8
 Sina,F,8
 Stacia,F,8
 Stacy,F,8
@@ -1684,7 +1684,6 @@ Blythe,F,6
 Brenda,F,6
 Calista,F,6
 Candelaria,F,6
-Carlene,F,6
 Carola,F,6
 Carra,F,6
 Catheryn,F,6
@@ -1923,6 +1922,7 @@ Bertina,F,5
 Blanchie,F,5
 Byrdie,F,5
 Canary,F,5
+Carlene,F,5
 Carlie,F,5
 Carlyn,F,5
 Carmie,F,5
@@ -2134,7 +2134,6 @@ Sarrah,F,5
 Senaida,F,5
 Siddie,F,5
 Silvia,F,5
-Sonya,F,5
 Stanley,F,5
 Steffie,F,5
 Susannah,F,5
@@ -2166,16 +2165,16 @@ Ysabel,F,5
 Zoa,F,5
 John,M,8108
 William,M,6416
-James,M,5856
+James,M,5855
 George,M,4219
 Robert,M,3414
-Charles,M,3407
+Charles,M,3406
 Joseph,M,3291
 Frank,M,2799
 Edward,M,2334
 Henry,M,2086
 Thomas,M,2057
-Walter,M,1872
+Walter,M,1873
 Harry,M,1722
 Willie,M,1675
 Arthur,M,1495
@@ -2193,7 +2192,7 @@ Louis,M,936
 Jack,M,908
 Ralph,M,899
 Earl,M,854
-Theodore,M,835
+Theodore,M,834
 David,M,817
 Ernest,M,749
 Charlie,M,739
@@ -2205,10 +2204,10 @@ Lawrence,M,662
 Elmer,M,620
 Sam,M,603
 Alfred,M,600
-Leo,M,553
+Leo,M,552
 Andrew,M,547
 Eugene,M,541
-Lee,M,533
+Lee,M,532
 Leonard,M,508
 Herman,M,497
 Russell,M,473
@@ -2256,9 +2255,9 @@ Jacob,M,243
 Leon,M,241
 Leslie,M,236
 Melvin,M,234
+Milton,M,230
 Roosevelt,M,230
 Everett,M,229
-Milton,M,229
 Allen,M,228
 Patrick,M,226
 Victor,M,218
@@ -3029,7 +3028,6 @@ Pierre,M,9
 Ransom,M,9
 Roderick,M,9
 Rowland,M,9
-Santos,M,9
 Sebastian,M,9
 Sid,M,9
 Sumner,M,9
@@ -3115,6 +3113,7 @@ Ricardo,M,8
 Roberto,M,8
 Rolla,M,8
 Royce,M,8
+Santos,M,8
 Severo,M,8
 Shelley,M,8
 Shelly,M,8

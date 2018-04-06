@@ -4,7 +4,7 @@ Note:This classification purely based on the data, and some pre-conditions.
 '''
 
 from nltk import NaiveBayesClassifier, classify
-import sentiment.gender.gender_predictor.GenderLoader as GenderLoader
+import gender_predictor.GenderLoader as GenderLoader
 import random
 
 

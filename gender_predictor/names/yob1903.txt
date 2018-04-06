@@ -15,7 +15,7 @@ Gladys,F,2674
 Edna,F,2667
 Grace,F,2615
 Annie,F,2551
-Rose,F,2477
+Rose,F,2478
 Frances,F,2365
 Clara,F,2342
 Bessie,F,2339
@@ -103,7 +103,7 @@ Theresa,F,553
 Effie,F,552
 Lola,F,547
 Nettie,F,547
-Opal,F,543
+Opal,F,542
 May,F,541
 Flora,F,536
 Nancy,F,527
@@ -155,7 +155,7 @@ Rebecca,F,334
 Sara,F,333
 Victoria,F,330
 Nannie,F,325
-Norma,F,312
+Norma,F,311
 Sophie,F,311
 Ola,F,309
 Geneva,F,308
@@ -202,8 +202,8 @@ Josie,F,210
 Winnie,F,208
 Lila,F,206
 Nell,F,206
-Roberta,F,206
 Augusta,F,205
+Roberta,F,205
 Leola,F,204
 Anita,F,202
 Kate,F,202
@@ -228,12 +228,12 @@ Veronica,F,175
 Rita,F,174
 Teresa,F,174
 Gussie,F,170
-Letha,F,166
+Letha,F,165
 Adele,F,164
 Claire,F,164
 Roxie,F,163
 Elma,F,162
-Jeannette,F,162
+Jeannette,F,161
 Ila,F,160
 Antoinette,F,159
 Cecile,F,159
@@ -290,9 +290,9 @@ Janet,F,119
 Corinne,F,118
 Lorene,F,116
 Dolores,F,114
-Merle,F,113
 Bess,F,112
 Harriett,F,112
+Merle,F,112
 Pearlie,F,112
 Elvira,F,110
 Lee,F,110
@@ -834,6 +834,7 @@ Tempie,F,18
 Twila,F,18
 Verlie,F,18
 Adrienne,F,17
+America,F,17
 Arie,F,17
 Claudine,F,17
 Dorris,F,17
@@ -860,7 +861,6 @@ Valerie,F,17
 Zita,F,17
 Alline,F,16
 Almeta,F,16
-America,F,16
 Bernardine,F,16
 Carmel,F,16
 Chrystal,F,16
@@ -907,7 +907,6 @@ Fae,F,15
 Fleta,F,15
 Flonnie,F,15
 Helga,F,15
-Jacqueline,F,15
 Jennette,F,15
 Jossie,F,15
 Juliet,F,15
@@ -946,6 +945,7 @@ Florie,F,14
 Gena,F,14
 Gertha,F,14
 Henretta,F,14
+Jacqueline,F,14
 Larue,F,14
 Lavera,F,14
 Laverna,F,14
@@ -2081,11 +2081,11 @@ Zelia,F,5
 Zellie,F,5
 Zenith,F,5
 Zillah,F,5
-John,M,7609
+John,M,7608
 William,M,6311
 James,M,5480
 George,M,3961
-Charles,M,3212
+Charles,M,3213
 Joseph,M,3121
 Robert,M,3044
 Frank,M,2644
@@ -2106,7 +2106,7 @@ Roy,M,975
 Carl,M,910
 Joe,M,895
 Louis,M,889
-Richard,M,864
+Richard,M,863
 Earl,M,837
 Jack,M,831
 Ralph,M,807
@@ -2117,8 +2117,8 @@ David,M,716
 Herbert,M,668
 Francis,M,665
 Theodore,M,663
-Leo,M,637
 Howard,M,636
+Leo,M,636
 Alfred,M,557
 Elmer,M,556
 Sam,M,552
@@ -2150,7 +2150,7 @@ Cecil,M,332
 Kenneth,M,330
 Chester,M,327
 Benjamin,M,324
-Eddie,M,315
+Eddie,M,314
 Claude,M,301
 Lloyd,M,299
 Tom,M,295
@@ -2178,7 +2178,7 @@ Patrick,M,210
 Everett,M,204
 Stephen,M,200
 Glenn,M,198
-Roosevelt,M,197
+Roosevelt,M,196
 Victor,M,196
 Alexander,M,195
 Hugh,M,193
@@ -2251,7 +2251,7 @@ Matthew,M,102
 Douglas,M,100
 Johnie,M,99
 Emmett,M,97
-Abraham,M,96
+Abraham,M,95
 Elbert,M,95
 Irvin,M,95
 Marshall,M,94
@@ -2299,8 +2299,8 @@ Sherman,M,70
 Merle,M,69
 Pete,M,69
 Roscoe,M,69
-Bruce,M,68
 Levi,M,68
+Bruce,M,67
 Monroe,M,67
 Ross,M,67
 Bob,M,66

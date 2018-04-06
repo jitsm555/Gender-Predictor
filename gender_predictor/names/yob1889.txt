@@ -1,4 +1,4 @@
-Mary,F,11649
+Mary,F,11648
 Anna,F,5062
 Elizabeth,F,3058
 Margaret,F,2917
@@ -6,7 +6,7 @@ Emma,F,2884
 Minnie,F,2624
 Florence,F,2465
 Ethel,F,2463
-Bessie,F,2342
+Bessie,F,2343
 Clara,F,2319
 Bertha,F,2293
 Alice,F,2145
@@ -23,7 +23,7 @@ Ella,F,1647
 Lillian,F,1640
 Pearl,F,1588
 Laura,F,1567
-Rose,F,1551
+Rose,F,1550
 Carrie,F,1547
 Gertrude,F,1543
 Edith,F,1523
@@ -101,7 +101,7 @@ Nannie,F,396
 Virginia,F,395
 Dorothy,F,377
 Jane,F,374
-Ollie,F,367
+Ollie,F,366
 Kate,F,362
 Theresa,F,359
 Susan,F,356
@@ -318,9 +318,9 @@ Evie,F,60
 Veronica,F,60
 Leta,F,59
 Letha,F,59
+Alpha,F,58
 Isabell,F,58
 Rosalie,F,58
-Alpha,F,57
 Angeline,F,57
 Cordelia,F,57
 Edythe,F,57
@@ -726,7 +726,6 @@ Betsey,F,13
 Billie,F,13
 Birtie,F,13
 Clifford,F,13
-Deborah,F,13
 Dell,F,13
 Dicie,F,13
 Ebba,F,13
@@ -761,6 +760,7 @@ Arlie,F,12
 Bobbie,F,12
 Byrd,F,12
 Celina,F,12
+Deborah,F,12
 Delphine,F,12
 Edward,F,12
 Emelie,F,12
@@ -919,7 +919,6 @@ Dellie,F,9
 Donia,F,9
 Elta,F,9
 Ernest,F,9
-Evalena,F,9
 Fronia,F,9
 Gene,F,9
 Gretta,F,9
@@ -973,6 +972,7 @@ Emaline,F,8
 Enid,F,8
 Ether,F,8
 Euna,F,8
+Evalena,F,8
 Eveline,F,8
 Exie,F,8
 Filomena,F,8
@@ -1485,7 +1485,7 @@ Charles,M,4199
 Frank,M,2975
 Joseph,M,2729
 Harry,M,2559
-Robert,M,2514
+Robert,M,2513
 Edward,M,2299
 Henry,M,2286
 Thomas,M,2233
@@ -1500,7 +1500,7 @@ Samuel,M,810
 Benjamin,M,760
 David,M,757
 Ernest,M,736
-Richard,M,712
+Richard,M,711
 Joe,M,708
 Willie,M,708
 Carl,M,704
@@ -1513,7 +1513,7 @@ Andrew,M,561
 Elmer,M,557
 Paul,M,556
 Daniel,M,515
-Raymond,M,512
+Raymond,M,511
 Howard,M,503
 Ralph,M,495
 Sam,M,486
@@ -1527,12 +1527,12 @@ Lewis,M,414
 Herman,M,405
 Claude,M,386
 Tom,M,379
-Michael,M,378
+Michael,M,377
 Eugene,M,369
 Martin,M,367
 Ray,M,355
 Francis,M,346
-Lawrence,M,343
+Lawrence,M,342
 Harold,M,340
 Jim,M,328
 Leo,M,325
@@ -1545,7 +1545,7 @@ Otto,M,309
 Edwin,M,306
 Jacob,M,295
 Harrison,M,288
-Chester,M,275
+Chester,M,274
 Guy,M,271
 Ed,M,270
 Luther,M,270
@@ -1558,7 +1558,7 @@ Hugh,M,225
 Allen,M,222
 Anthony,M,219
 Bernard,M,215
-Lester,M,214
+Lester,M,213
 Grover,M,210
 Oliver,M,210
 Ira,M,207
@@ -1678,9 +1678,9 @@ Hiram,M,66
 Kenneth,M,66
 Forrest,M,65
 Irving,M,65
-Steve,M,65
 Vincent,M,65
 Orville,M,64
+Steve,M,64
 Alva,M,62
 Bruce,M,62
 Don,M,62
@@ -1699,10 +1699,10 @@ Glen,M,58
 Dock,M,57
 Mose,M,57
 Barney,M,54
-Bob,M,52
 Edd,M,52
 Ervin,M,52
 Ike,M,52
+Bob,M,51
 Christian,M,51
 Clark,M,51
 Karl,M,50

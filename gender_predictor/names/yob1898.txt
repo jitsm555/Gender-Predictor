@@ -7,7 +7,7 @@ Florence,F,3790
 Elizabeth,F,3659
 Ethel,F,3531
 Marie,F,3435
-Lillian,F,3060
+Lillian,F,3061
 Alice,F,2846
 Edna,F,2813
 Emma,F,2788
@@ -25,7 +25,7 @@ Gertrude,F,2302
 Martha,F,2184
 Pearl,F,2158
 Gladys,F,2136
-Mildred,F,2103
+Mildred,F,2102
 Ida,F,2090
 Myrtle,F,2090
 Esther,F,2047
@@ -37,7 +37,7 @@ Nellie,F,1810
 Sarah,F,1800
 Laura,F,1768
 Ella,F,1715
-Agnes,F,1709
+Agnes,F,1708
 Catherine,F,1705
 Louise,F,1693
 Dorothy,F,1671
@@ -58,8 +58,8 @@ Jennie,F,1194
 Ruby,F,1191
 Lucy,F,1144
 Beatrice,F,1122
-Marion,F,1086
 Fannie,F,1085
+Marion,F,1085
 Mamie,F,1084
 Lula,F,1069
 Stella,F,1062
@@ -108,7 +108,7 @@ Theresa,F,540
 Lola,F,534
 Anne,F,496
 Harriet,F,491
-Addie,F,480
+Addie,F,481
 Etta,F,479
 Inez,F,479
 Lois,F,466
@@ -1116,7 +1116,6 @@ Concepcion,F,10
 Dagny,F,10
 Dee,F,10
 Delcie,F,10
-Edward,F,10
 Elba,F,10
 Elberta,F,10
 Elmina,F,10
@@ -1195,6 +1194,7 @@ Delfina,F,9
 Dicie,F,9
 Dimple,F,9
 Ednah,F,9
+Edward,F,9
 Estel,F,9
 Ethyle,F,9
 Florene,F,9
@@ -1973,13 +1973,13 @@ Willma,F,5
 Zela,F,5
 Zell,F,5
 Zudie,F,5
-John,M,8160
-William,M,7399
+John,M,8159
+William,M,7400
 James,M,5321
-George,M,4854
+George,M,4853
 Charles,M,3557
 Joseph,M,3171
-Robert,M,2933
+Robert,M,2932
 Frank,M,2925
 Edward,M,2337
 Thomas,M,2161
@@ -1998,7 +1998,7 @@ Harold,M,963
 Raymond,M,929
 Carl,M,919
 Earl,M,883
-Richard,M,873
+Richard,M,872
 Louis,M,862
 Ernest,M,839
 Joe,M,827
@@ -2021,7 +2021,7 @@ Daniel,M,523
 Lee,M,498
 Jesse,M,476
 Will,M,475
-Eugene,M,474
+Eugene,M,473
 Herman,M,467
 Floyd,M,434
 Michael,M,434
@@ -2055,12 +2055,12 @@ Lloyd,M,265
 Otto,M,259
 Eddie,M,256
 Jacob,M,256
-Leon,M,252
+Leon,M,251
 Hugh,M,250
 Homer,M,246
 Philip,M,244
 Cecil,M,243
-Donald,M,239
+Donald,M,238
 Ed,M,228
 Leslie,M,228
 Milton,M,225
@@ -2074,8 +2074,8 @@ Ira,M,195
 Stephen,M,195
 Kenneth,M,191
 Horace,M,189
-Allen,M,186
 Oliver,M,186
+Allen,M,185
 Alvin,M,184
 Julius,M,181
 Alexander,M,180
@@ -2217,9 +2217,9 @@ Karl,M,53
 Pete,M,53
 Preston,M,53
 Grant,M,52
-Tony,M,52
 Anton,M,51
 Carroll,M,51
+Tony,M,51
 Wiley,M,51
 Jerome,M,50
 Leland,M,50
@@ -3138,7 +3138,6 @@ Cornelious,M,5
 Curley,M,5
 Dane,M,5
 Dawson,M,5
-Denton,M,5
 Denzil,M,5
 Dexter,M,5
 Dorris,M,5

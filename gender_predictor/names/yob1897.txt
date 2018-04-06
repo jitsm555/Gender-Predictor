@@ -1,7 +1,7 @@
-Mary,F,13412
+Mary,F,13414
 Anna,F,5429
-Helen,F,4518
-Margaret,F,4145
+Helen,F,4519
+Margaret,F,4146
 Ruth,F,3878
 Elizabeth,F,3442
 Florence,F,3369
@@ -38,7 +38,7 @@ Nellie,F,1693
 Irene,F,1587
 Laura,F,1585
 Agnes,F,1579
-Louise,F,1562
+Louise,F,1563
 Catherine,F,1511
 Dorothy,F,1472
 Lillie,F,1401
@@ -69,7 +69,7 @@ Beatrice,F,942
 Dora,F,862
 Willie,F,818
 Nora,F,812
-Pauline,F,778
+Pauline,F,777
 Vera,F,776
 Rosa,F,770
 Maggie,F,760
@@ -77,7 +77,7 @@ Sadie,F,757
 Ellen,F,733
 Marguerite,F,728
 Effie,F,698
-Evelyn,F,691
+Evelyn,F,690
 Beulah,F,688
 Lucille,F,648
 Lydia,F,642
@@ -170,7 +170,7 @@ Allie,F,265
 Ina,F,262
 Celia,F,260
 Jean,F,258
-Kathleen,F,251
+Kathleen,F,250
 Janie,F,247
 Eliza,F,244
 Naomi,F,241
@@ -1798,7 +1798,7 @@ Zellie,F,5
 Zilda,F,5
 Zylpha,F,5
 John,M,7550
-William,M,7199
+William,M,7198
 James,M,5113
 George,M,4078
 Charles,M,3341
@@ -1809,7 +1809,7 @@ Edward,M,2121
 Henry,M,1994
 Thomas,M,1980
 Walter,M,1895
-Harry,M,1880
+Harry,M,1879
 Arthur,M,1647
 Albert,M,1377
 Fred,M,1301
@@ -1848,7 +1848,7 @@ Floyd,M,451
 Eugene,M,447
 Herman,M,412
 Peter,M,397
-Ray,M,396
+Ray,M,397
 Edwin,M,380
 Benjamin,M,378
 Lewis,M,378
@@ -2014,8 +2014,8 @@ Loyd,M,61
 Sherman,M,61
 Hobert,M,60
 Jerome,M,60
-Leland,M,60
 Jeff,M,59
+Leland,M,59
 Levi,M,59
 Wiley,M,59
 Abe,M,58
@@ -2268,7 +2268,6 @@ Oswald,M,18
 Otho,M,18
 Pierre,M,18
 Reginald,M,18
-Rodney,M,18
 Winfield,M,18
 Albin,M,17
 Alice,M,17
@@ -2286,6 +2285,7 @@ Gust,M,17
 Jefferson,M,17
 Merritt,M,17
 Micheal,M,17
+Rodney,M,17
 Roswell,M,17
 Rupert,M,17
 Steven,M,17

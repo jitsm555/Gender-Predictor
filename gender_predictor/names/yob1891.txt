@@ -1,6 +1,6 @@
-Mary,F,11704
+Mary,F,11703
 Anna,F,5099
-Margaret,F,3066
+Margaret,F,3065
 Elizabeth,F,3059
 Emma,F,2884
 Florence,F,2715
@@ -77,7 +77,7 @@ Dorothy,F,566
 Susie,F,566
 Willie,F,562
 Daisy,F,557
-Ruby,F,555
+Ruby,F,554
 Beulah,F,526
 Lizzie,F,525
 Nancy,F,523
@@ -214,9 +214,9 @@ Madeline,F,125
 Abbie,F,124
 Christina,F,124
 Fern,F,124
-Cecilia,F,122
 Johanna,F,122
 Nelle,F,122
+Cecilia,F,121
 Roxie,F,120
 Adelaide,F,119
 Mina,F,119
@@ -1531,7 +1531,7 @@ Vola,F,5
 Wadie,F,5
 Will,F,5
 Zillah,F,5
-John,M,7681
+John,M,7680
 William,M,6763
 James,M,4516
 George,M,3931
@@ -1547,14 +1547,14 @@ Walter,M,1668
 Arthur,M,1514
 Fred,M,1362
 Albert,M,1207
-Clarence,M,1008
+Clarence,M,1007
 Roy,M,838
 Louis,M,786
 Samuel,M,753
 Willie,M,739
 Ernest,M,715
 Charlie,M,707
-Carl,M,676
+Carl,M,675
 Earl,M,674
 David,M,673
 Richard,M,609
@@ -1592,7 +1592,7 @@ Clyde,M,327
 Edwin,M,327
 Tom,M,318
 Ben,M,302
-Jack,M,291
+Jack,M,290
 Jim,M,288
 Edgar,M,277
 Harvey,M,274
@@ -1676,8 +1676,8 @@ Vernon,M,96
 Marvin,M,93
 Hubert,M,92
 Max,M,91
-Dennis,M,90
 Wallace,M,90
+Dennis,M,89
 Emmett,M,89
 Adam,M,87
 Clinton,M,87
@@ -1954,7 +1954,6 @@ Garland,M,18
 Green,M,18
 Israel,M,18
 Jonas,M,18
-Larry,M,18
 Lige,M,18
 Nels,M,18
 Steven,M,18
@@ -1968,6 +1967,7 @@ Granville,M,17
 Hal,M,17
 Hezekiah,M,17
 Jean,M,17
+Larry,M,17
 Lionel,M,17
 Maynard,M,17
 Zack,M,17
@@ -2351,7 +2351,6 @@ Miguel,M,7
 Miller,M,7
 Miner,M,7
 Murl,M,7
-Newell,M,7
 Olen,M,7
 Olof,M,7
 Presley,M,7
@@ -2456,6 +2455,7 @@ Micheal,M,6
 Mitchel,M,6
 Murphy,M,6
 Myrtle,M,6
+Newell,M,6
 Newt,M,6
 Okey,M,6
 Olive,M,6
