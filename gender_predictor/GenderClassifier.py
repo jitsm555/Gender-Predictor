@@ -47,7 +47,7 @@ class GenderClassifier:
         return self.test(test_set)
 
     def classify(self, name):
-        feats = self._nameFeatures(name)
+        feats = self._name_features(name)
         return self.classifier.classify(feats)
 
     def train(self, train_set):
