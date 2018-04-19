@@ -10,12 +10,12 @@ import csv
 
 def get_name_list():
     # print('Get the male and female list name')
-    name_dict = extract_name_dict()
+    name_dict = get_data_from_csv()
 
     male_names = list()
     female_names = list()
 
-    # print('Sorting Names')
+    print('Sorting Names')
     for name in name_dict:
         counts = name_dict[name]
         tuple = (name, counts[0], counts[1])
@@ -25,29 +25,16 @@ def get_name_list():
             female_names.append(tuple)
 
     names = (male_names, female_names)
-    # print('%d male names loaded, %d female names loaded' % (len(names[0]), len(names[1])))
     return names
 
 
-def extract_name_dict():
-    file_list = os.listdir(os.getcwd() + "/names")
+def get_data_from_csv():
+    # Convert csv data to dictionary
     names = dict()
-    gender_map = {'M': 0, 'F': 1}
-    for filename in file_list:
-        file = open(os.getcwd() + "/names/" + filename, 'r')
-        print("Final File :" + file.name)
-        rows = csv.reader(file, delimiter=',')
-        for row in rows:
-            name = row[0].upper()
-            gender = gender_map[row[1]]
-            count = int(row[2])
-            if name not in names:
-                names[name] = [0, 0]
-            names[name][gender] = names[name][gender] + count
-
-        file.close()
-    print(names)
-    # print('\tImported %s' % file.name)
+    with open('gender_type.csv', 'r') as csv_file:
+        reader = csv.DictReader(csv_file, delimiter=',')
+        for row in reader:
+            names[row['name']] = [int(row['male_count']), int(row['female_count'])]
     return names
 
 

@@ -20,3 +20,17 @@ http://genderchecker.com/default.aspx
 
 For puython reference:
 http://www.pythonforbeginners.com/os/pythons-os-module
+
+
+
+
+Next Task:
+1. Convert it into one .csv file (lib)
+2. Add third gender unisex in the output (lib)
+3. Update README (lib)
+4. Create lib of it. (lib)
+5. Push all the .csv file data to firebase, treat it has server.
+6. Provide functionality of firebase to my chat app, if any new name is added can able to add in server.
+7. Create an sample app which will tell you whether gender type based on given input, and add it to firebase after
+   confirmation by user. (Have editText and two button, )
+8. .csv name format

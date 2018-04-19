@@ -1,5 +1,10 @@
 '''
 This class responsible for classifying gender based on the given name.
+We are using NaiveBayesClassifier classifier to classify gender names
+There are three types of gender we are cassifying here
+a.Male
+b.Female
+c.Unisex
 Note:This classification purely based on the data, and some pre-conditions.
 '''
 
@@ -16,7 +21,7 @@ class GenderClassifier:
 
         for nameTuple in male_names:
             features = self._name_features(nameTuple[0])
-            male_prob, female_prob = self._getProbDistr(nameTuple)
+            male_prob, female_prob = self._get_prob_distr(nameTuple)
             features['male_prob'] = male_prob
             features['female_prob'] = female_prob
             feature_set.append((features, 'M'))
@@ -24,7 +29,7 @@ class GenderClassifier:
 
         for nameTuple in female_names:
             features = self._name_features(nameTuple[0])
-            male_prob, female_prob = self._getProbDistr(nameTuple)
+            male_prob, female_prob = self._get_prob_distr(nameTuple)
             features['male_prob'] = male_prob
             features['female_prob'] = female_prob
             feature_set.append((features, 'F'))
@@ -57,7 +62,7 @@ class GenderClassifier:
     def test(self, test_set):
         return classify.accuracy(self.classifier, test_set)
 
-    def _getProbDistr(self, nameTuple):
+    def _get_prob_distr(self, nameTuple):
         male_prob = (nameTuple[1] * 1.0) / (nameTuple[1] + nameTuple[2])
         if male_prob == 1.0:
             male_prob = 0.99

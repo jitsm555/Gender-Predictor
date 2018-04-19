@@ -17,3 +17,10 @@ count = 20
 dictionary[name][gender] = dictionary[name][gender] + count
 
 print(dictionary)
+
+for key, value in dictionary.items():
+    print(key)
+    print(value[0])
+
+
+
