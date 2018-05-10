@@ -4,7 +4,6 @@ a.Male
 b.Female
 c.Unisex
 '''
-import os
 import csv
 
 
@@ -31,7 +30,7 @@ def get_name_list():
 def get_data_from_csv():
     # Convert csv data to dictionary
     names = dict()
-    with open('gender_type.csv', 'r') as csv_file:
+    with open('data/gender_type.csv', 'r') as csv_file:
         reader = csv.DictReader(csv_file, delimiter=',')
         for row in reader:
             names[row['name']] = [int(row['male_count']), int(row['female_count'])]
