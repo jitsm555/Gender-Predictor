@@ -5,6 +5,7 @@ There are three types of gender we are cassifying here
 a.Male
 b.Female
 c.Unisex
+https://stackoverflow.com/questions/28708705/pypi-400-upload-error?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 Note:This classification purely based on the data, and some pre-conditions.
 '''
 
@@ -25,7 +26,7 @@ class GenderClassifier:
             features['male_prob'] = male_prob
             features['female_prob'] = female_prob
             feature_set.append((features, 'M'))
-        print(feature_set)
+        # print(feature_set)
 
         for nameTuple in female_names:
             features = self._name_features(nameTuple[0])
@@ -99,3 +100,10 @@ if __name__ == "__main__":
         print('\t%s = %s' % feat)
     name = input('Enter name to classify: ')
     print('\n%s is classified as %s' % (name, gp.classify(name)))
+
+
+def classify_gender(name):
+    gp = GenderClassifier()
+    accuracy = gp.train_and_test()
+    print('Accuracy: %f' % accuracy)
+    return gp.classify(name)

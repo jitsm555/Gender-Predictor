@@ -15,7 +15,7 @@ def get_name_list():
     male_names = list()
     female_names = list()
 
-    print('Sorting Names')
+    # print('Sorting Names')
     for name in name_dict:
         counts = name_dict[name]
         tuple = (name, counts[0], counts[1])

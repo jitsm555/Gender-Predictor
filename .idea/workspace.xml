@@ -2,148 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e02d273-bb95-4eaf-9637-be5de512c780" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1880.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1881.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1882.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1883.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1884.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1885.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1886.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1887.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1888.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1889.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1890.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1891.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1892.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1893.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1894.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1895.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1896.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1897.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1898.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1899.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1900.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1901.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1902.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1903.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1904.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1905.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1906.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1907.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1908.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1909.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1910.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1911.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1912.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1913.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1914.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1915.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1916.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1917.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1918.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1919.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1920.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1921.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1922.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1923.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1924.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1925.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1926.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1927.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1928.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1929.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1930.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1931.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1932.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1933.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1934.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1935.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1936.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1937.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1938.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1939.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1940.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1941.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1942.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1943.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1944.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1945.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1946.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1947.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1948.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1949.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1950.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1951.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1952.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1953.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1954.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1955.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1956.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1957.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1958.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1959.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1960.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1961.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1962.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1963.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1964.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1965.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1966.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1967.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1968.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1969.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1970.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1971.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1972.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1973.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1974.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1975.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1976.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1977.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1978.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1979.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1980.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1981.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1982.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1983.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1984.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1985.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1986.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1987.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1988.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1989.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1990.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1991.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1992.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1993.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1994.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1995.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1996.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1997.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1998.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob1999.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2000.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2001.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2002.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2003.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2004.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2005.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2006.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2007.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2008.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2009.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2010.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2011.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2012.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2013.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2014.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2015.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gender_predictor/names/yob2016.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gender_Predictor.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gender_Predictor.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gender_Predictor.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gender_Predictor.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/Gender-Predictor-0.1.tar.gz" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gender_predictor/GenderClassifier.py" afterPath="$PROJECT_DIR$/gender_predictor/GenderClassifier.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gender_predictor/GenderLoader.py" afterPath="$PROJECT_DIR$/gender_predictor/GenderLoader.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gender_predictor/Sample.py" afterPath="$PROJECT_DIR$/gender_predictor/Sample.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gender_predictor/document" afterPath="$PROJECT_DIR$/gender_predictor/document" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -154,21 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenderLoader.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GenderLoader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gender_predictor/GenderLoader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="49">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#136#145#0" expanded="true" />
               </folding>
@@ -176,47 +33,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gender_type.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gender_predictor/gender_type.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GenderClassifier.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="91" column="26" lean-forward="true" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+            <state relative-caret-position="93">
+              <caret line="101" column="65" lean-forward="true" selection-start-line="101" selection-start-column="65" selection-end-line="101" selection-end-column="65" />
               <folding>
-                <element signature="e#306#353#0" expanded="true" />
+                <element signature="e#446#493#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -243,6 +77,8 @@
       <find>out_file</find>
       <find>emma</find>
       <find>EMMA</find>
+      <find>GenderClassifier</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -252,13 +88,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/gender_predictor/document" />
         <option value="$PROJECT_DIR$/gender_predictor/names/yob1880.txt" />
-        <option value="$PROJECT_DIR$/gender_predictor/Sample.py" />
-        <option value="$PROJECT_DIR$/gender_predictor/GenderClassifier.py" />
         <option value="$PROJECT_DIR$/gender_predictor/gender_type.csv" />
+        <option value="$PROJECT_DIR$/gender_predictor/__init__.py" />
         <option value="$PROJECT_DIR$/gender_predictor/GenderLoader.py" />
+        <option value="$PROJECT_DIR$/gender_predictor/GenderClassifier.py" />
+        <option value="$PROJECT_DIR$/gender_predictor/Sample.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
       </list>
     </option>
   </component>
@@ -301,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,7 +156,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GenderClassifier">
+  <component name="RunManager" selected="Python.Sample (1)">
     <configuration name="GenderClassifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,7 +215,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sample (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -395,16 +232,54 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <configuration name="Sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gender_predictor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Gender-Precdictor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/Sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gender_predictor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Gender-Precdictor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gender_predictor/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Sample" />
       <item index="1" class="java.lang.String" itemvalue="Python.GenderLoader" />
       <item index="2" class="java.lang.String" itemvalue="Python.GenderClassifier" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Sample (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.GenderClassifier" />
-        <item index="1" class="java.lang.String" itemvalue="Python.GenderLoader" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Sample" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Sample (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GenderClassifier" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GenderLoader" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Sample" />
       </list>
     </recent_temporary>
   </component>
@@ -425,14 +300,14 @@
     <frame x="0" y="23" width="1280" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18901454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19466881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.007974481" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3907496" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2950558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46730462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3907496" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08562197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -457,82 +332,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="e#306#353#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/GenderLoader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="69" column="28" lean-forward="false" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
-          <folding>
-            <element signature="e#136#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/GenderLoader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding>
-            <element signature="e#136#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/document">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="e#306#353#0" expanded="true" />
+            <element signature="e#446#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -548,7 +351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+    <entry file="file://$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/Sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -566,19 +369,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/document">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/document" />
     <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding>
-            <element signature="e#306#353#0" expanded="true" />
+            <element signature="e#446#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -602,7 +399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+    <entry file="file://$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/Sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -610,19 +407,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/document">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/document" />
     <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
           <caret line="84" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding>
-            <element signature="e#306#353#0" expanded="true" />
+            <element signature="e#446#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -646,7 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+    <entry file="file://$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/Sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -664,19 +455,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/document">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/document" />
     <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
-            <element signature="e#306#353#0" expanded="true" />
+            <element signature="e#446#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -692,14 +477,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1880.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1880.txt" />
+    <entry file="file://$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/Sample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
@@ -707,13 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/document">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/document" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -732,14 +505,6 @@
           <folding>
             <element signature="e#136#145#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,35 +543,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/document">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1881.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="1555" column="4" lean-forward="false" selection-start-line="1555" selection-start-column="0" selection-end-line="1555" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/document" />
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1881.txt" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-1113537848/_io.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="1370" column="8" lean-forward="false" selection-start-line="1370" selection-start-column="8" selection-end-line="1370" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1882.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1882.txt" />
     <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/nltk/compat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -815,29 +560,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1954.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3015">
-          <caret line="201" column="11" lean-forward="false" selection-start-line="201" selection-start-column="7" selection-end-line="201" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob2007.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11655">
-          <caret line="777" column="13" lean-forward="false" selection-start-line="777" selection-start-column="10" selection-end-line="777" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1880.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1954.txt" />
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob2007.txt" />
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob1880.txt" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -849,47 +574,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob2016.txt">
+    <entry file="file://$PROJECT_DIR$/gender_predictor/names/yob2016.txt" />
+    <entry file="file://$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/gender_type.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358665">
-          <caret line="23911" column="9" lean-forward="false" selection-start-line="23911" selection-start-column="9" selection-end-line="23911" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Hackthon2017/hellodoctiveclient/hellodoctiveserver/Sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
+    <entry file="file://$PROJECT_DIR$/gender_predictor/gender_type.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gender_Predictor.egg-info/dependency_links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gender_Predictor.egg-info/PKG-INFO">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gender_Predictor.egg-info/SOURCES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gender_Predictor.egg-info/top_level.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gender_predictor/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/nltk/classify/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gender_predictor/GenderClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="91" column="26" lean-forward="true" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+        <state relative-caret-position="93">
+          <caret line="101" column="65" lean-forward="true" selection-start-line="101" selection-start-column="65" selection-end-line="101" selection-end-column="65" />
           <folding>
-            <element signature="e#306#353#0" expanded="true" />
+            <element signature="e#446#493#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gender_predictor/gender_type.csv">
+    <entry file="file://$PROJECT_DIR$/gender_predictor/Sample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gender_predictor/GenderLoader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="49">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="e#136#145#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
