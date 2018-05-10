@@ -5,6 +5,9 @@ b.Female
 c.Unisex
 '''
 import csv
+import os
+
+source_file = 'data/gender_type.csv'
 
 
 def get_name_list():
@@ -29,8 +32,12 @@ def get_name_list():
 
 def get_data_from_csv():
     # Convert csv data to dictionary
+
+    path = os.path.abspath(__file__)
+    dir_path = os.path.dirname(path) + '/'
+
     names = dict()
-    with open('data/gender_type.csv', 'r') as csv_file:
+    with open(dir_path + '/' + source_file, 'r') as csv_file:
         reader = csv.DictReader(csv_file, delimiter=',')
         for row in reader:
             names[row['name']] = [int(row['male_count']), int(row['female_count'])]
